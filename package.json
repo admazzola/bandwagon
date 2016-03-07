@@ -1,0 +1,11 @@
+{
+  "name": "bandwagon",
+  "version": "1.0.0",
+  "description": "A nodejs module for interacting with and testing the Embark framework for Ethereum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Mazzola",
+  "license": "ISC"
+}
